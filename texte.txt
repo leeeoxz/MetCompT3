@@ -1,0 +1,16 @@
+ACCGT
+|||||
+AC--G
+  Score=-5
+ACCGT
+|||||
+AC-G-
+  Score=-5
+ACCGT
+|||||
+A-CG-
+  Score=-5
+ACCGT
+|||||
+ACG--
+  Score=-5
