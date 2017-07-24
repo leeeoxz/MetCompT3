@@ -22,5 +22,5 @@ for sec in SeqIO.parse(pars, "fasta"):
 for item in info:
 	print item
 
-#for a in pairwise2.align.globalms("ACCGT", "ACG",5,-4,-10,-1):
-#    print(format_alignment(*a))
+for a in pairwise2.align.globalms("ACCGT", "ACG",5,-4,-10,-1):
+    print(format_alignment(*a))
